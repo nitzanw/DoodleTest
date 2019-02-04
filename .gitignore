@@ -1,0 +1,18 @@
+*.pyc
+/rtmbot.conf
+/plugins/**
+/new_plugins/**
+/build/**
+*.log
+env
+.tox
+*.un~
+0/
+tests/.cache
+.coverage
+.cache
+
+# Packaging related
+dist/
+rtmbot.egg-info/
+MANIFEST
